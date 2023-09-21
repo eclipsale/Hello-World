@@ -1,7 +1,7 @@
 # Hello-World
 # Project Title
 Danial Lee
-## Description
+## Heading
 
 Here's a brief description of my project
 - I am majoring in Accounting and Business Analytics and Information Systems
